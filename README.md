@@ -1,5 +1,11 @@
  <img src="https://oldschool.runescape.wiki/images/Coins_detail.png?404bc" width="200" title="Coins 10000+">
  
+# Profits & Expenses
+This is intended to track and give deeper insights into your Runescape profits and expenses, to discover your money leaks or find hidden money makers.
+
+Based on the great work of the 'Profit Tracker' plugin, let's see where this goes.
+
+------------------------------------
  
 # Profit Tracker Plugin
 
